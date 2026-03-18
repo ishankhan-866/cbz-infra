@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "cluster_name" {
-  default = "cluster"
+  default = "cluster-01"
 }
 
 variable "node_instance_type" {
