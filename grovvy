@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_REGION = 'eu-north-1'
-        CLUSTER_NAME = 'eks-cluster'
+        CLUSTER_NAME = 'cluster'
         TF_DIR = '.'
     }
 
